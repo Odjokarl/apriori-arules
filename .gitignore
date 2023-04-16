@@ -2,3 +2,5 @@ data/
 __pycache__/
 tools/__pycache__
 tests/__pycache__
+.gitignore~
+..gitignore.un~
